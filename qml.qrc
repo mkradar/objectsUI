@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainFFT.qml</file>
+        <file>mainOBJ.qml</file>
+        <file>resources/appIcon.ico</file>
+        <file>resources/line.fsh</file>
+        <file>resources/line.vsh</file>
+        <file>Data.qml</file>
+        <file>EditBox.qml</file>
+    </qresource>
+</RCC>
